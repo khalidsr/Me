@@ -1,6 +1,6 @@
 
 
-import dev from "../assets/devloper.png"
+import dev from "../assets/6.jpeg"
 import {FiArrowRight} from "react-icons/fi"
 
 
